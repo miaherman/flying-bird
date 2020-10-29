@@ -1,1 +1,1 @@
-# flying-bird
+# flying-bird school practice assignment. Original code not by me
